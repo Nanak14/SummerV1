@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    min-height: 100vh;
+    background: linear-gradient(to right bottom, #7868E6, #EDEEF7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.363);
+    min-height: 85vh;
+    width: 85%;
+    border-radius: 25px;
+}
+
+.design1,
+.design2 {}
